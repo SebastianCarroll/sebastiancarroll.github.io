@@ -2,8 +2,7 @@
 title: Sebastian Carroll
 email: sebastianjamescarroll@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Software Engineer
-  Continuous Improvement Enthusiast
+  Software Engineer | Continuous Improvement Enthusiast | Technologist | Dreamer
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://sebastiancarroll.github.io" # the base hostname & protocol for your site
 twitter_username: sebjcarroll
