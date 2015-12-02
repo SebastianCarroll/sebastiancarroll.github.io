@@ -4,7 +4,8 @@ title:  "Good Remote Working == Just Good Working"
 date:   2015-11-30 22:02:26
 categories: article review remote business
 ---
-I recently read an article about [working remotely][article_link] and thought it contained some fairly good lessons in general, not just for working remotely. 
+I recently read an article about [working remotely][article_link] I found interesting. The thing that stood out the most was that many of the lessons were applicable to most workers not just those working remotely. 
+
 
 One of the things I really like is the “expand your notion of work” section. I think this is really important and one of the potential benefits of owning my own business. Why shouldn’t it all be work? There are very few things in life that can’t be considered work at some level especially if you run your own business. Having that allows you to make a whole swath of pragmatic decisions:
 Should I do the dishes or hire someone to do it for me? If you work for yourself its easy; do the benefits outweigh the costs? If your’e salaried the comparison is harder as you won’t see and direct benefits from that time saving.
