@@ -15,8 +15,11 @@ I wrote a fantastic blog yesterday and everything looked fine locally, but after
 * Checked that master was still the branch to build off of
 * I have no CNAME file (One answerer suggested an empty CNAME file broke it for them)
 * Double checked everything worked locally
+Nothing!!
+
+Finally I remebered last time there was something weird going on with the dates. The date github reported was different to the one I had set. I also remembered that github pages can handle future posts by simply not building them if the date set is in the future. I'm in UTC+11 so if i use local time the UTC github server will think I'm posting in the future. Sure enough, changing the date to UTC and pushing showed me both my lost posts (the last one presumably because the timezones have caught up) 
 
 #The Fix#
-As yet unknown, but you probably won't see this until I come up with one.
+Use UTC for dates and the github server won't think my posts are future ones.
 
 #Versions#
