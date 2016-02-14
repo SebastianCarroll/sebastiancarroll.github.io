@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why won't github pages work?"
-date:   2016-02-14 16:46
+date:   2016-02-14 6:10
 categories: github jekyll github-pages 
 ---
 #The Problem: GitHub pages won't display new posts after a push#
@@ -17,5 +17,6 @@ I wrote a fantastic blog yesterday and everything looked fine locally, but after
 * Double checked everything worked locally
 
 #The Fix#
+As yet unknown, but you probably won't see this until I come up with one.
 
 #Versions#
