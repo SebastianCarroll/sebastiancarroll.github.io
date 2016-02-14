@@ -4,7 +4,9 @@ title:  "Why won't github pages work?"
 date:   2016-02-14 6:10
 categories: github jekyll github-pages 
 ---
+
 #The Problem: GitHub pages won't display new posts after a push#
+
 I wrote a fantastic blog yesterday and everything looked fine locally, but after a push nothing. I waited the 10 minutes and still nothing. So naturally I turned to google and of course gravitated to the first [SO post](http://stackoverflow.com/questions/20422279/github-pages-are-not-updating). I immediately reconsidered whether I should have migrated from blogspot. There were so many people having a similar issue and so many different ways they were fixed.  I thought this can't be right, there must be a way to debug this. I searched some more and found that github pages will fail with an unverified email. Apparently it will also email you if the build failed. I checked for those but only old ones from months ago. That wasn't the issue. I started just testing all the things listed in the post and anything else I could think of: 
 * I've definitely pushed the code, I can see it in the commit messages. 
 * I don't have the 'relative_permalinks' option in my config
