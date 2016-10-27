@@ -20,11 +20,7 @@ The issue I would take with this is that these are not mutually exclusive. Just 
 # Expand Your Definition Of “Work” #
 I would say this is the most important section in the article. I'm starting to see this shift coming through the agile movement as well. For example, [EP 103 Chasing the dragon of This Agile Life][tal_ep103] talks about why shouldn't work be fun? Why is it so ingrained in our culture that work is a negative experience? 
 
-One of the things I think is most applicable to traditional workers is the "expand your notion of work” section. 
-I think this is really important and one of the potential benefits of owning my your business. Why shouldn’t all the fun things be 'work' too? There are very few things in life that can’t be considered work at some level especially if you run your own business. Having that allows you to make a whole swath of pragmatic decisions:
-Should I do the dishes or hire someone to do it for me? If you work for yourself its easy; do the benefits outweigh the costs? If you're salaried, the comparison is harder as you won’t see and direct benefits from that time saving.
-If taking a month to learn speed reading might make me more productive then I would probably do that. As a salaried employee, it's far more difficult to make the case for a decent ROI.  
-
+I believe there is a huge amount of potential for productivity gains by making this change. Eating as a team, actively taking rest breaks, team social events are all aspects I see as being part of work. I have seen them all result in huge productivity gains. Obviously there has to be a balance, I can't meditate for the whole working day and expect to be productive. I'm not advocating for that, what I am advocating for is removing stigmas and being open to the idea that work can be fun.
 
 [article_link]: http://observer.com/2014/02/phoning-it-in-3-years-of-lessons-from-running-a-remote-business/
 [tal_ep103]: http://www.thisagilelife.com/103/
