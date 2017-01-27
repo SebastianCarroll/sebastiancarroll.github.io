@@ -1,1 +1,1 @@
-./jekyll-rakefile/Rakefile
+jekyll-rakefile/Rakefile.deploy.rb
