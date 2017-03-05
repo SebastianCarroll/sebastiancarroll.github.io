@@ -24,16 +24,16 @@ using the other half's tech. This always causes issues when we do meet up
 ## Finding a solution
 
 ### Webex
-Webex didnt have a good option for this. It was very 'meeting oriented'. Someone had to be the host and set up the room.
+Webex didn't have a good option for this. It was very 'meeting oriented'. Someone had to be the host and set up the room.
 Also, it required corporate subscription which only half the team had so whenever two people who didn't have a subscription
 wanted to talk we had to involve someone else on the team. Very painful to say the least.
 
 ### Zoom
 This has been my tool of choice for a while and I very much like the product and company. I lodged a request to see
-if this 'perpetual meeting' could be set up. Unfortuntely, Zoom doesn't and never will support this feature. No luck here
+if this 'perpetual meeting' could be set up. Unfortunately, Zoom doesn't and never will support this feature. No luck here
 
 ### Hangouts
-It doesn't come out of the box but theres a good [blog](https://content.pivotal.io/blog/persistent-google-hangouts-for-distributed-teams)
+It doesn't come out of the box but there's a good [blog](https://content.pivotal.io/blog/persistent-google-hangouts-for-distributed-teams)
 by Pivotal showing how they set this up. It basically just required setting up a daily recurring meeting with a Hangout attached.
 This seemed to be what I wanted on the surface until Hangouts started having weird issues depending on which office/laptop/connection
 combination was chosen. 
