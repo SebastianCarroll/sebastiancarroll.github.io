@@ -2,3 +2,5 @@ _site
 _drafts
 .*.swp
 .sass-cache
+.idea
+*.iml
