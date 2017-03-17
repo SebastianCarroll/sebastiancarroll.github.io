@@ -32,7 +32,7 @@ Looking at the cleaned up example, you can see more easily that everything to th
 ![after picking flow direction]({{ site.baseurl }}/images/after-picking-flow-direction.png)
 
 ## Keep Processors Aligned
-There's no auto format in NiFi because it isn't crucial that 
+There's no auto format in NiFi[^1] because it isn't crucial that
 things line up pixel perfect, but it is important that they are roughly aligned. Why? It just makes it 
 easier to follow. Consider the image below, it's now much easier to see that there are two distinct processor
 groups connected with three connections. Its also easy to see that  all those the connections 
@@ -89,3 +89,8 @@ and more descriptive is better than short and cryptic (Again I refer to
 ## Putting it all together
 I think you'll agree that the finished product is much simpler than what we started with. It takes some 
 discipline to keep a flow maintainable but the benefits are definitely worth the effort.
+
+***
+***
+
+[^1]: However, the next release will support horizontal and vertical alignment of selected components.
