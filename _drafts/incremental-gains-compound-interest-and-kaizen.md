@@ -17,7 +17,7 @@ The standard improvement initiatives I have seen usually involves an external te
 [^si]: https://www.thebalance.com/simple-interest-overview-and-calculations-315578
 
 ## Kaizen and Continuous Improvement?
-Kaizen directly just translates to improvement in English, regardless of its size or repetition frequency, however has become synonymous with the Continuous Improvement philosophy spearheaded by Toyota[^toyota]. There are a number of improvements that the Kaizen way brings to the table, however I believe that the strongest is the idea that continual improvement is everyone's responsibility. All workers at all levels are involved in continual improving the business and the workplace. This important as the employees who are striving for improvement are also the ones reaping the benefit of that improvement.
+The principle of Kaizan improvement may be directly translated to English, regardless of its size or repetition frequency. However it has become synonymous with the Continuous Improvement philosophy spearheaded by Toyota[^toyota]. There are a number of improvements that the Kaizen way brings to the table, however I believe that the strongest one is the idea that continual improvement is everyone's responsibility. All workers at all levels are involved in continous improvement of the business and the workplace. This important as the employees who are striving for improvement are also the ones reaping the benefit of that improvement.
 
 [^toyota]: https://en.wikipedia.org/wiki/Kaizen
 
