@@ -8,10 +8,8 @@ layout: default
 ## Outline
 Standard business improvement - The standard interest of business improvement lies in,  people telling other people what to do and how you get some business improvement.
 Kaizen - According to Kaizen principle, improvement is the responsibility of everyone. Everyone should contribute towards improvement all the time. Thus it is like compound interest where the improvement is compounded over time.
-Relating - Compound interest is amazing and worth doing with even modest expected returns-5-10%. People find it very impressive that they can ususally expect anywhere from 25 to 50 or sometimes even 100 % increment with small changes. These can then be reinvested.
-Even with Kaizen we don't really get to compound interest because we aren't continuously reinvesting the time saved
-Need to be improving with learning and by doing that then the interest adds up and the metaphor makes sense
-This is the basis of a learning organisation
+Relating - Compound interest is amazing and is worth investing even with modest expected returns-5-10%. People find it very impressive that they can ususally expect returns anywhere from 25 to 50 or sometimes even 100 % increment with small changes. These can then be reinvested.
+Though Kaizan is not exactly equivalent to compund interest, it is a very close analogy where improvement is driven by learning and interest. So, the metaphor makes sense. Kaizen should be the base of a learning organization.
 
 ## Traditional Improvement Initiatives
 The standard improvement initiatives I have seen usually involved an external team that identifies some area of the business that could be improved. Usually, there is some expected benefit and some expected cost, where the project will be approved if the benefit is higher than the cost plus some risk margin.  When I think about this, I always think this is analogous to the idea of Simple Interest[^si], where some money or principal is invested with some expected gains.  In our improvement case, we invest some time and money with the hope of helping employees in a way that makes them more productive. The project is conducted once and then the affected employees should be more productive going forward. In the interest analogy we would invest some principal, wait the allotted time and collect the interest. I see this case like interest with no replacement because the rewards gained (higher productivity) are not then being reinvested, they are just being extracted as higher margins.
