@@ -6,8 +6,8 @@ layout: default
 # Kaizen and Compound Interest
 
 ## Outline
-Standard business improvement - The standard interest of business improvement lies in,  people telling other people what to do and you get some business improvement
-Kaizen - improvement is the responsibility of everyone. All improve all the time. Thus it is like compound interest where the rewards can be reinvested.
+Standard business improvement - The standard interest of business improvement lies in,  people telling other people what to do and how you get some business improvement.
+Kaizen - According to Kaizen principle, improvement is the responsibility of everyone. Everyone should contribute towards improvement all the time. Thus it is like compound interest where the improvement is compounded over time.
 Relating - compound interest is amazing and worth doing with even modest expected returns -5-10%. People are even more impressive that this and can expect anywhere from 25,50, even hundreds of percent increases with small changes. These can then be reinvested.
 Even with Kaizen we don't really get to compound interest because we aren't continuously reinvesting the time saved
 Need to be improving with learning and by doing that then the interest adds up and the metaphor makes sense
