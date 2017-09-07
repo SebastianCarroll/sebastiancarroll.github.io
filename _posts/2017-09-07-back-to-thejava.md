@@ -1,6 +1,6 @@
 ---
 title: "Back to the Java"
-layout: default
+layout: post
 date: 2017-09-07 18:28:23 BST
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Azure for HDP deployments"
-layout: default
+layout: post
 date: 2016-10-24 10:23:00 BST
 ---
 

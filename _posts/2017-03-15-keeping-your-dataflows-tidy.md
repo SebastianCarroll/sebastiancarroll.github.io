@@ -1,6 +1,6 @@
 ---
 title: "Keeping Your Dataflows Tidy"
-layout: default
+layout: post
 date: 2017-03-15 14:55:04 AEDT
 ---
 

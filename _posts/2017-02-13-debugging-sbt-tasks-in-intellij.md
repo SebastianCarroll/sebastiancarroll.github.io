@@ -1,6 +1,6 @@
 ---
 title: "Debugging Sbt Tasks in Intellij"
-layout: default
+layout: post
 date: 2017-02-13 17:08:25 GMT
 ---
 

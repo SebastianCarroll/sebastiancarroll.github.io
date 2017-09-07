@@ -1,6 +1,6 @@
 ---
 title: "Coding isn't intuitive"
-layout: default
+layout: post
 date: 2016-11-15 18:09:30 GMT
 ---
 
