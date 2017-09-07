@@ -2,6 +2,7 @@
 title: "Azure for HDP deployments"
 layout: post
 date: 2016-10-24 10:23:00 BST
+categories: azure cloud
 ---
 
 # Azure for HDP Deployments
