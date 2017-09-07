@@ -25,7 +25,7 @@ longest_repeated_str.java:4: error: cannot find symbol
 
 I've gotten used to the Scala idiom of `Array[String]` way of declaring something similar. It wasn't just that, I met a number of things that I had to be reacquainted with:
 
-* The `%n` is the newline in a `System.out.printf` funtion
+* The `%n` is the newline in a `System.out.printf` function
 * The complexities of primitive types vs objects (e.g. `charAt()` returns `char` not `Character`)
 * String comparisons `==` vs `.equals`
 
