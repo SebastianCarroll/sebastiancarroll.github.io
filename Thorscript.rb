@@ -1,21 +1,16 @@
 require "thor"
 require_relative "jekyll-rakefile/lib/jekyll_rake.rb"
 require_relative "jekyll-rakefile/lib/jekyll_rake/post.rb"
-require "pry"
 
-class MyCLI < Thor
-  desc "hello NAME", "say hello to NAME"
-  def hello(name)
-    puts "Hello #{name}"
-  end
-
-  desc "new TITLE, CONTENT", "Make a new draft with the content provided, or edit if empty"
-  def new(title, content=nil)
+class Blogger < Thor
+  desc "new TITLE", "Make a new draft"
+  def new(title)
     JekyllRake::Post.new(nil, Args.new(title), "_drafts/")
   end
 end
 
-
+# Hack class to be able to call Post.new
+# as I would from the Rake file
 class Args
   attr_accessor :title, :date, :content, :category
 
@@ -24,4 +19,4 @@ class Args
   end
 end
 
-MyCLI.start(ARGV)
+Blogger.start(ARGV)
