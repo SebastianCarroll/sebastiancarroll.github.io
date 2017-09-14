@@ -11,11 +11,16 @@ class MyCLI < Thor
 
   desc "new TITLE, CONTENT", "Make a new draft with the content provided, or edit if empty"
   def new(title, content=nil)
-    binding.pry
-    post = JekyllRake::Post.new(title, args, "_drafts/")
-    # TODO: work out how to do shell calls inside the object
-    sh "vim \"#{post.file}\"" if post.content.nil?
-    commit_new_content post.title, "_drafts"
+    JekyllRake::Post.new(nil, Args.new(title), "_drafts/")
+  end
+end
+
+
+class Args
+  attr_accessor :title, :date, :content, :category
+
+  def initialize(title)
+    @title = title
   end
 end
 
