@@ -1,3 +1,5 @@
+#!/usr/bin/ruby
+
 require "thor"
 require_relative "jekyll-rakefile/lib/jekyll_rake.rb"
 require_relative "jekyll-rakefile/lib/jekyll_rake/post.rb"
