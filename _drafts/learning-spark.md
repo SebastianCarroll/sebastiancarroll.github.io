@@ -76,6 +76,15 @@ Fault tolerance
 Add Image
 
 ## Pair RDD's
+Usually used when aggregate or transform data based on a key which is a very common requirement.
+Can be created easily by mapping to a 2 tuple to generated a pair RDD. The key and values don't have to be primatives and can be anything really including complex types. A pair RDD gives us additional methods such as:
+
+* ReduceByKey: Like normal reduce but first GroupByKey and then reduce over the values associated with each key. e.g. rdd.reduceByKey((x,y) => x+y). Here I think of x,y more as accumulator and new value where they are added together.
+* GroupByKey: Returns a unique collection of keys where each key links to the collection of elements associated with that key
+* SortByKey: Sort based on the keys only
+* keys(), values(): return a collection of the keys or values respectively
+
+and much more
 
 ## Partitioning
 PairRDD with be partitioned by hashing of the key
