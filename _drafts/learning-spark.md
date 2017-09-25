@@ -87,8 +87,7 @@ Can be created easily by mapping to a 2 tuple to generated a pair RDD. The key a
 and much more
 
 ## Partitioning
-PairRDD with be partitioned by hashing of the key
-Can give a custom partitioner if don't want the default
+When using PairRDD they will be partitioned by hashing of the key but can give a custom partitioner if don't want the default. Would imagine that the custom partitioner could access more than the key if required but not sure. Use partitionBy(new HashPartitioner(100)) to explicitly break the RDD out to 100 partitions (and therefore tasks). Would ideally like at least as many partitions as executors otherwise there will be executors that go idle (Too many however and overhead will be large). Joining actions usually benefit most from effective partitioning however the algorithms for shuffling are pretty good so if not repeating multiple times, the benefit may not be that great.
 
 # On the Cluster
 Submitting
@@ -96,6 +95,20 @@ Yarn client/master
 Standalone
 Broadcast vars
 Caching/Persisting
+
+# Broadcast
+A broadcast variable is transported to each of the executors only once in order to minimise processing and network traffic. Without this the data contained in the broadcast will be sent to each task as that task requires it. Which could mean it will be sent to each machine multiple times if multiple tasks require the same set of data. A common scenario for this is lookup tables which are small enough to be sent to each machine. To create a broadcast variable:
+
+`val b_var = sc.braodcast(inner_var)`
+
+and to access again:
+
+`val inner_var_broadcasted = b_var.value`
+
+# Caching and Persist
+Calling the `cache` function on an RDD tells Spark to keep it around in memory as it will be reused. Accessing cached data is much much faster than having to read fro disk and recalculate the RDD up to the cache point each time it is used. Very important for iterative calculations.
+
+Persist performs the same function but allows more granularity on how the data is stored. Can chose whether to store in memory or disk and also on multiple machines.
 
 # Spark SQL
 Uses the catalyst optimiser. Allows you to write the sequence of commands however is most convinient
