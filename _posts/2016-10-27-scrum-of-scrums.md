@@ -1,6 +1,6 @@
 ---
 title: "Scrum of Scrums"
-layout: default
+layout: post
 date: 2016-10-27 18:15:09 BST
 ---
 

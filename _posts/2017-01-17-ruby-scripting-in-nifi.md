@@ -1,6 +1,6 @@
 ---
 title: "Ruby Scripting in NiFi"
-layout: default
+layout: post
 date: 2017-01-17 17:47:06 GMT
 ---
 

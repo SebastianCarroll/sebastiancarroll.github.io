@@ -1,6 +1,6 @@
 ---
 title: "Culture at spotify just blew me away!"
-layout: default
+layout: post
 date: 2016-12-10 15:23:47 GMT
 ---
 

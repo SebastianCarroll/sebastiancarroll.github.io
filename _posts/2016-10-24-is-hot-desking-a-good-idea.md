@@ -1,6 +1,6 @@
 ---
 title: "Is hot desking a good idea?"
-layout: default
+layout: post
 date: 2016-10-24 15:55:04 BST
 ---
 

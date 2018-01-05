@@ -1,6 +1,6 @@
 ---
 title: "Working across time zones"
-layout: default
+layout: post
 date: 2016-11-02 11:12:43 GMT
 ---
 

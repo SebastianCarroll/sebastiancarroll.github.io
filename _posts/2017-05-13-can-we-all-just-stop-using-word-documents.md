@@ -1,6 +1,6 @@
 ---
 title: "Can We All Just Stop Using Word Documents?"
-layout: default
+layout: post
 date: 2017-05-13 12:28:44 BST
 ---
 
